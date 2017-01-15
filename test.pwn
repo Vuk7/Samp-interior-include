@@ -18,7 +18,7 @@ public OnGameModeInit()
 {
 	SetGameModeText("test");
 	AddPlayerClass(0, 0.0,0.0,4.0,0.0, 0, 0, 0, 0, 0, 0);
-    inte = CreateInterior(52,"test",0.0,0.0,4.0,0.0,-1861.936889,54.908092,1061.143554,0.0,0,0,14,1);
+    	inte = CreateInterior(52,"test",0.0,0.0,4.0,0.0,-1861.936889,54.908092,1061.143554,0.0,0,0,14,1);
 	return 1;
 }
 
